@@ -2,6 +2,26 @@
 title: "Joseph Chung"
 ---
 
-BIO: Emerging data analyst. Researcher. Experimenter. Skilled at data mining to extract semantic information from raw data. Focused on data analytics. Expert at analyzing and summarizing data to present them in charts, graphs, and tables, making complex data easy to read and understand. Driven by a desire to learn and apply that knowledge to solve problems.
+------------------------------------------------------------------------
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+BIO:
+
+Emerging data analyst. Researcher. Experimenter. Skilled at data mining to extract semantic information from raw data. Focused on data analytics. Expert at analyzing and summarizing data to present them in charts, graphs, and tables, making complex data easy to read and understand. Driven by a desire to learn and apply that knowledge to solve problems.
+
+------------------------------------------------------------------------
+
+Education
+
+Bachelor of Information (2024) University of Toronto \| Toronto, Ontario
+
+------------------------------------------------------------------------
+
+Experience
+
+Policy Analyst Ontario Power Generation
+
+------------------------------------------------------------------------
+
+To learn more about me, here is my CV in pdf:
+
+[Joseph's CV](https://github.com/UtopianYoungChung/UtopianYoungChung/blob/d900a8e14f5c3297ab5a0d052ef45761d963b0a6/CV/resume_Joseph_Chung.pdf)
