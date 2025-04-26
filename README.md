@@ -1,7 +1,6 @@
 # Joseph Chung 👋
 
 Aspiring Information Systems Researcher with a focus on ethical AI integration and socio-technical systems.
-
 ---
 
 ## About Me
@@ -9,6 +8,9 @@ Aspiring Information Systems Researcher with a focus on ethical AI integration a
 I am an incoming PhD student at the Faculty of Information, University of Toronto, starting in May ☀️, under the guidance of Professor Eric Yu. My academic journey bridges data, technology, and human-centered design, driven by a commitment to ethical AI frameworks that promote sustainable business innovation. I hold a Master of Digital Experience Innovation from the University of Waterloo and a Bachelor of Information Science from the University of Toronto. My background includes over a decade of experience in safety-critical environments, specializing in data analysis and agile project management. These experiences have shaped my approach to developing equitable, human-centered AI systems that address systemic challenges in real-world contexts.
 
 My academic development includes studies in Statistics at York University, which honed my analytical skills, and a Bachelor of Information at U of T, which expanded my understanding of technology's social and organizational impact. Courses in human-technology interactions and the societal impact of technology were particularly influential.
+![Joseph Chung 👋 - visual selection (1)](https://github.com/user-attachments/assets/af8dd439-90d4-41d4-9506-705f1d6ced3e)
+
+
 
 ## My Research
 
