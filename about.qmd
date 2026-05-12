@@ -2,8 +2,15 @@
 title: "About"
 ---
 
-About this site
+I am Joseph Chung, a PhD student at the Faculty of Information, University of Toronto (2025–2029), working under the supervision of Professor Eric Yu on agent-oriented requirements engineering for AI-enabled socio-technical systems.
 
-```{r}
-1 + 1
-```
+My research builds and analyzes i\* (iStar) Strategic Dependency (SD) and Strategic Rationale (SR) models to surface intentional actors, dependencies, vulnerabilities, and identity concerns that arise when AI agents take on roles inside organizations. This modeling is paired with empirical analysis of how human–AI collaboration unfolds at scale — for example, across 29,585 pull-request lifecycles spanning five AI coding tools.
+
+Two first-author papers accepted in 2026:
+
+- *Modeling and Analyzing Identity-Sensitive Requirements in Human-AI Collaboration* — CAiSE 2026, Verona (with Kun Eun Bae and Eric Yu).
+- *Collaborator or Assistant? How AI Coding Agents Partition Work Across Pull Request Lifecycles* — AIware 2026 (with Safwat Hassan).
+
+Before the PhD I completed a Master of Digital Experience Innovation at the University of Waterloo and a Bachelor of Information Science at the University of Toronto, after earlier studies in Mathematical Statistics at York University. I spent nearly a decade at Ontario Power Generation in safety-critical nuclear environments — Instrumentation & Control at Pickering, then Data Analyst at Darlington — which continues to inform how I think about requirements, accountability, and socio-technical risk.
+
+Contact: jo.chung\@utoronto.ca

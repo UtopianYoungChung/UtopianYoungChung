@@ -4,24 +4,37 @@ title: "Joseph Chung"
 
 ------------------------------------------------------------------------
 
-BIO:
+**BIO**
 
-Emerging data analyst. Researcher. Experimenter. Skilled at data mining to extract semantic information from raw data. Focused on data analytics. Expert at analyzing and summarizing data to present them in charts, graphs, and tables, making complex data easy to read and understand. Driven by a desire to learn and apply that knowledge to solve problems.
-
-------------------------------------------------------------------------
-
-Education
-
-Bachelor of Information (2024) University of Toronto \| Toronto, Ontario
+PhD student in Information at the University of Toronto (2025–2029), supervised by Prof. Eric Yu. Research focus: agent-oriented requirements engineering for AI-enabled socio-technical systems, combining i\* (iStar) conceptual modeling with empirical analysis of human–AI collaboration. Two first-author papers accepted in 2026 (CAiSE; AIware).
 
 ------------------------------------------------------------------------
 
-Experience
+**Education**
 
-Policy Analyst Ontario Power Generation
+- PhD in Information, Faculty of Information, University of Toronto (2025–2029)
+- Master of Digital Experience Innovation, Stratford School of Business, University of Waterloo (2024–2025)
+- Bachelor of Information Science, Faculty of Information, University of Toronto (2022–2024)
+- Mathematical Statistics, Faculty of Mathematics and Statistics, York University (2018–2020)
 
 ------------------------------------------------------------------------
 
-To learn more about me, here is my CV in pdf:
+**Publications (2026)**
 
-[Joseph's CV](https://github.com/UtopianYoungChung/UtopianYoungChung/blob/d900a8e14f5c3297ab5a0d052ef45761d963b0a6/CV/resume_Joseph_Chung.pdf)
+- Chung, Y. J., Bae, K. E., & Yu, E. (2026). *Modeling and Analyzing Identity-Sensitive Requirements in Human-AI Collaboration.* CAiSE 2026, Verona. Springer LNCS.
+- Chung, Y. J., & Hassan, S. (2026). *Collaborator or Assistant? How AI Coding Agents Partition Work Across Pull Request Lifecycles.* AIware 2026. ACM.
+
+------------------------------------------------------------------------
+
+**Experience**
+
+- Research Fellow / Student Research Trainee — Faculty of Information, University of Toronto (May 2025 – Aug 2026); Supervisor: Prof. Eric Yu.
+- Teaching Assistant — RSM 8431 Social Network Analysis, Rotman School of Management, University of Toronto (2025–2026).
+- Data Analyst — Ontario Power Generation, Darlington Nuclear (2016–2022).
+- Instrumentation & Control — Ontario Power Generation, Pickering Nuclear (2013–2016).
+
+------------------------------------------------------------------------
+
+To learn more about me, here is my CV in PDF:
+
+[Joseph's CV](CV/Resume_Joseph_Chung_2026_updated.pdf)
