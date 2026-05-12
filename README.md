@@ -43,4 +43,4 @@ Methodologically, I work across goal modeling, viability analysis, label propaga
 
 ---
 
-📄 [Latest CV (PDF)](CV/Resume_Joseph_Chung_2026_updated.pdf) · ✉️ jo.chung@utoronto.ca · 🏛️ Faculty of Information, University of Toronto
+📄 [Latest CV (PDF)](CV/Resume_Joseph_Chung_2026.pdf) · ✉️ jo.chung@utoronto.ca · 🏛️ Faculty of Information, University of Toronto
